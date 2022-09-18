@@ -10,7 +10,7 @@
 - 🔭 My next challenge is to learn Django.
 - 🎓 TAFE Queensland - Diploma in IT, Australia (in progress)
 - 🎓 Faculdade de Tecnologia de São Paulo - Processamento de Dados FATEC-SP, Brazil (Completed) ✅
-- 🌏 I've been living in Australia for over 10 years and I've got a Australian Citzenship.
+- 🌏 I've been living in Australia for over 10 years! I've got a Australian Citzenship! 🎊
 - 🏄 If I'm not writting on Pycharm, I'm riding on my surfboard.
 - 🎯 2023 Goal: Get a job in back-end development as dev junior or internship.  
 <br>
