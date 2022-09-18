@@ -2,9 +2,12 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marcelomagario.marcelomagario)](https://github.com/marcelomagario) [![GitHub followers](https://img.shields.io/github/followers/marcelomagario.svg?style=social&label=Follow)](https://github.com/marcelomagario?tab=followers)
 
-### Hi 👋, I'm Marcelo Magario 
+### Hi 👋, I'm Marcelo Yukio Magario 
 
 - 🌱 I’m currently learning Object-Oriented Programming in Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" />
+- 🌏 Dual citzenship [BR, AU] 
+- 🏄 If I'm not with the Pycharm, I'm with my surfboard.
+- 🎯 2023 Goal: Get a job in back-end development as dev junior or internship.  
 <!--
 **marcelomagario/marcelomagario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
 
 <p>
 <h2>📫 How to reach me:</h2>
