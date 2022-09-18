@@ -1,4 +1,8 @@
-### Hi there 👋
+
+
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marcelomagario.marcelomagario)](https://github.com/marcelomagario) [![GitHub followers](https://img.shields.io/github/followers/marcelomagario.svg?style=social&label=Follow)](https://github.com/marcelomagario?tab=followers)
+
+### Hey, I'm Marcelo Magario 👋
 
 <!--
 **marcelomagario/marcelomagario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
