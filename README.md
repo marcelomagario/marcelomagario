@@ -4,6 +4,7 @@
 
 ### Hi 👋, I'm Marcelo Magario 
 
+- 🌱 I’m currently learning Object-Oriented Programming in Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" />
 <!--
 **marcelomagario/marcelomagario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
+
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:marcelomagario@gmail.com">![marcelomagario@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
