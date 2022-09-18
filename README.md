@@ -2,9 +2,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=marcelomagario.marcelomagario)](https://github.com/marcelomagario) [![GitHub followers](https://img.shields.io/github/followers/marcelomagario.svg?style=social&label=Follow)](https://github.com/marcelomagario?tab=followers)
 
-# Hi! 👋<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Marcelo Magario 
+# Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-### A little bit about myself:
+### Here is a little bit about myself:
 
 - 🌱 I’m currently learning Object-Oriented Programming in Python. 
 - 🔭 My next challenge is to learn Django.
