@@ -6,7 +6,7 @@
 
 ## A little bit about myself:
 
-- 🌱 I’m currently learning Object-Oriented Programming in Python. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="40" />
+- 🌱 I’m currently learning Object-Oriented Programming in Python. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="25" height="20" />
 - 🔭 My next challenge is to learn Django.
 - 🎓 TAFE Queensland - Diploma in IT, Australia (in progress)
 - 🎓 Faculdade de Tecnologia de São Paulo - Processamento de Dados FATEC-SP, Brazil (Completed) ✅
