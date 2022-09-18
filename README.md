@@ -4,11 +4,11 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-- 🌱 I’m currently learning Object-Oriented Programming in Python. 
-- 👨🏻‍💻 My next goal is to learn Django.
+- 🌏 I'm Brazilian and I've been living in Australia for over 10 years - I'm a dual-citzen.
 - 🎓 I'm current studying Diploma in IT at TAFE Queensland, Australia.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil 
-- 🌏 I'm a dual-citzen (brazilian and australian). I've been living in Australia for over 10 years.
+- 🌱 I’m currently learning Object-Oriented Programming in Python. 
+- 👨🏻‍💻 My next goal is to learn Django.
 - 🏄 I love surfing and traveling.
 - 🎯 2023 Goal: Get a job in back-end development as a Junior Developer, Trainee or Intern!
 <br>
