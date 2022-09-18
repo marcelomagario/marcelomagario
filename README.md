@@ -7,12 +7,12 @@
 ### Here is a little bit about myself:
 
 - 🌱 I’m currently learning Object-Oriented Programming in Python. 
-- 🔭 My next challenge is to learn Django.
-- 🎓 TAFE Queensland - Diploma in IT, Australia (in progress)
-- 🎓 Faculdade de Tecnologia de São Paulo - Processamento de Dados FATEC-SP, Brazil (Completed) ✅
-- 🌏 I've been living in Australia for over 10 years! I've got a Australian Citzenship! 🎊
+- 🔭 My next goal is to learn Django.
+- 🎓 I'm current studying Diploma in IT at TAFE Queensland, Australia.
+- 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil ✅
+- 🌏 I've been living in Australia for over 10 years and I've got a Australian Citzenship! 🎊
 - 🏄 If I'm not writting on Pycharm, I'm riding on my surfboard.
-- 🎯 2023 Goal: Get a job in back-end development as dev junior or internship.  
+- 🎯 2023 Goal: Get a job in back-end development as a Junior Developer, Trainee or Intern.
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
 <br>
