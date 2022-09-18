@@ -4,8 +4,6 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-### Here is a little bit about myself:
-
 - 🌱 I’m currently learning Object-Oriented Programming in Python. 
 - 👨🏻‍💻 My next goal is to learn Django.
 - 🎓 I'm current studying Diploma in IT at TAFE Queensland, Australia.
