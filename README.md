@@ -7,7 +7,7 @@
 ### Here is a little bit about myself:
 
 - 🌱 I’m currently learning Object-Oriented Programming in Python. 
-- 🔭 My next goal is to learn Django.
+- 👨🏻‍💻 My next goal is to learn Django.
 - 🎓 I'm current studying Diploma in IT at TAFE Queensland, Australia.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil 
 - 🌏 I'm a dual-citzen (brazilian and australian). I've been living in Australia for over 10 years.
