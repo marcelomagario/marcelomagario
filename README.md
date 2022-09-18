@@ -4,8 +4,13 @@
 
 ### Hi 👋, I'm Marcelo Yukio Magario 
 
-- 🌱 I’m currently learning Object-Oriented Programming in Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" />
-- 🌏 Dual citzenship [BR, AU] 
+### A little bit about myself:
+
+- 🌱 I’m currently learning Object-Oriented Programming in Python. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" />
+- 🔭 My next challenge is to learn Django.
+- 🎓 TAFE Queensland - Diploma in IT, Australia (in progress)
+- 🎓 Faculdade de Tecnologia de São Paulo - Processamento de Dados FATEC-SP, Brazil (Completed) ✅
+- 🌏 Dual citzenship: Brazilian and Australian. I've been living in Australia for over 10 years.
 - 🏄 If I'm not with the Pycharm, I'm with my surfboard.
 - 🎯 2023 Goal: Get a job in back-end development as dev junior or internship.  
 <!--
