@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Object-Oriented Programming in Python. 
 - 👨🏻‍💻 My next goal is to learn Django.
 - 🎓 I'm currently studying Diploma in IT at TAFE Queensland, Australia.
-- 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil 
+- 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🏄 I love surfing and traveling.
 - 🌏 I'm a dual-citizen, Brazilian and Australian. I've been living in Australia for over 10 years.
 - 🎯 2023 Goal: Get a job in <b>back-end development</b> as a Junior Developer, Trainee or Intern!
