@@ -4,8 +4,8 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-- 🌱 I’m currently learning Javascript. 
-- 👨🏻‍💻 My next goal is to Typescript and NodeJS.
+- 🌱 I’m currently learning Javascript and Node.js. 
+- 👨🏻‍💻 My next goal is to Typescript.
 - 🎓 I'm currently studying Diploma in IT at TAFE Queensland, Australia.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🏄 I love surfing and traveling.
