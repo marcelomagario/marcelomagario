@@ -10,7 +10,7 @@
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🏄 I love surfing and traveling.
 - 🌏 I'm a dual-citizen, Brazilian and Australian. I've been living in Australia for over 10 years.
-- 🎯 2023 Goal: Get a job in <b>back-end development</b> as a Junior Developer, Trainee or Intern!
+- 🎯 2023 Goal: Get a job in <b>back-end development</b> as a Junior Developer or Trainee.
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
 <br>
