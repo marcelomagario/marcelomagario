@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning JavaScript. 
 - 👨🏻‍💻 My next goal is to learn Nodejs.
-- 🎓rocket I'm currently in the Rocketseat full-stack Bootcamp.
+- 🎓 I'm currently studying the Fullstack Rocketseat Bootcamp.
 - 🎓 I'm currently studying Diploma in IT at TAFE Queensland, Australia.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🏄 I love surfing and traveling.
