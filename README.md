@@ -4,12 +4,12 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-- 🎯 2023 Goal: Get a job as a <b>Junior Python/Javascript Back-End Developer</b>.
+- 🎯 2023 Goal: Career transition to <b>Back-End Developer</b>. Internship where I can develop in <b>Python</b> and <b>JavaScript</b>.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🎓 I'm currently studying Bachelor of Information Systems at Faculdade Anhanguera.
-- 🎓 I'm currently studying Diploma in IT at TAFE Queensland, Australia.
+- 🎓 ITIL Foundation Certified.
 - 🏄 I love surfing and traveling.
-- 🌏 I'm a dual-citizen, Brazilian and Australian. I lived in Australia for over 10 years.
+- 🌏 I'm a dual-citizen, Brazilian and Australian. I lived Down Under for over 10 years.
 
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
