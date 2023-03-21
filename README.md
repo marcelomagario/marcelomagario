@@ -6,7 +6,7 @@
 
 - 🎯 2023 Goal: Get a job as a <b>Junior Python/Javascript Back-End Developer</b>.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
-- 🎓 I'm currently studying the Fullstack Rocketseat Bootcamp.
+- 🎓 I'm currently studying Bachelor of Information Systems at Faculdade Anhanguera.
 - 🎓 I'm currently studying Diploma in IT at TAFE Queensland, Australia.
 - 🏄 I love surfing and traveling.
 - 🌏 I'm a dual-citizen, Brazilian and Australian. I lived in Australia for over 10 years.
