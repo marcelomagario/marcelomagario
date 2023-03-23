@@ -9,7 +9,7 @@
 - 🎓 I'm currently studying Bachelor of Information Systems at Faculdade Anhanguera.
 - 🎓 ITIL Foundation Certified.
 - 🏄 I love surfing and traveling.
-- 🌏 I'm a dual-citizen, Brazilian and Australian. I lived Down Under for over 10 years.
+- 🌏 I'm a dual-citizen, Brazilian and Australian. I lived in a land down under for over 10 years.
 
 <br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario" /></p>
