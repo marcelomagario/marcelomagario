@@ -4,7 +4,6 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-- 🎯 2023 Goal: Career transition to <b>Back-End Developer</b>. Internship where I can focus in <b>Python</b> and <b>JavaScript</b>.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
 - 🎓 I'm currently studying Bachelor of Information Systems at Faculdade Anhanguera.
 - 🎓 ITIL Foundation Certified.
