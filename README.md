@@ -5,7 +5,6 @@
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
-- 🎓 I'm currently studying Bachelor of Information Systems at Faculdade Anhanguera.
 - 🎓 ITIL Foundation Certified.
 - 🏄 I love surfing and traveling.
 - 🌏 I'm a dual-citizen, Brazilian and Australian. I lived in a land down under for over 10 years.
