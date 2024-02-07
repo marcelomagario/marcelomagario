@@ -6,7 +6,7 @@
 
 - 🧑‍💻  I am a back-end developer at <a href="https://www.mzgroup.com" target="_blank"> MZ Group </a>.
 - 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
-- 🎓 ITIL Foundation Certified.
+- 🎓 ITIL Certified by Exin.
 - 🏄 I love surfing and traveling.
 - 🌏 I'm a dual-citizen, Brazilian and Australian. 
 
