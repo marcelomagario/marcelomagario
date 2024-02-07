@@ -11,7 +11,7 @@
 - 🌏 I'm a dual-citizen, Brazilian and Australian. 
 
 <br>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&show_icons=true&theme=dark&locale=en&layout=compact" alt="marcelomagario"  target="_blank"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&theme=dark&locale=en" alt="marcelomagario"  target="_blank"/></p>
 <br>
 <p>
 <h2>📫 How to reach me:</h2>
