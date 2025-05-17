@@ -4,11 +4,12 @@
 
 # Hi! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> I'm Marcelo Magario 
 
-- 🧑‍💻  I am a back-end developer at <a href="https://www.mzgroup.com" target="_blank"> MZ Group </a>.
-- 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil. 
-- 🎓 ITIL Certified by Exin.
-- 🏄 I love surfing and traveling.
-- 🌏 I'm a dual-citizen, Brazilian and Australian.
+- 📚 Currently studying **DevOps** – learning about CI/CD, Docker, GitHub Actions, Terraform and AWS.
+- 🧑‍💻 I am a back-end developer at <a href="https://www.mzgroup.com" target="_blank"> MZ Group </a>.
+- 🎓 I graduated in Data Processing at Faculdade de Tecnologia de São Paulo (FATEC-SP), Brazil.
+- 🏅 AWS Certified Cloud Practitioner.
+- 🏅 ITIL Certified by Exin.
+- 🇧🇷🇦🇺 I'm a dual-citizen, Brazilian and Australian.
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomagario&layout=donut)](https://github.com/marcelomagario/github-readme-stats)
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&theme=dark&locale=en" alt="marcelomagario"  target="_blank"/> -->
