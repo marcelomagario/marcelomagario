@@ -36,12 +36,6 @@ Dockerized and deployed a Python app to Docker Hub with full documentation.
 Frontend + Backend tool to generate UUIDs. Includes Redis cache, Dockerized deployment, and production link.  
 [![View Live](https://img.shields.io/badge/live-demo-blue)](https://uuid-generator-frontend.onrender.com)
 
-
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelomagario&show_icons=true&theme=default)](https://github.com/marcelomagario)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomagario&layout=compact)](https://github.com/marcelomagario)
-
 ---
 
 ## 🚀 Deploy Status
@@ -56,15 +50,4 @@ Frontend + Backend tool to generate UUIDs. Includes Redis cache, Dockerized depl
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcelomagario)  
 - 📧 [Email](mailto:marcelomagario@gmail.com)  
 - 📝 [Dev.to Blog](https://dev.to/marcelomagario)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelomagario&layout=donut)](https://github.com/marcelomagario/github-readme-stats)
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelomagario&theme=dark&locale=en" alt="marcelomagario"  target="_blank"/> -->
-<br>
-<p>
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:marcelomagario@gmail.com" target="_blank">![marcelomagario@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/marcelo.magario/) <a href="https://www.linkedin.com/in/marcelomagario" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</p> 
-
-
-
+ 
