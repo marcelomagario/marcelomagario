@@ -41,7 +41,8 @@ Frontend + Backend tool to generate UUIDs. Includes Redis cache, Dockerized depl
 ## 🚀 Deploy Status
 
 ![Deployed to AWS EC2](https://img.shields.io/badge/API-AWS%20EC2-green)  
-![Deployed with Docker Hub](https://img.shields.io/badge/deploy-Docker--Hub-blue)
+![Deployed to Vercel](https://img.shields.io/badge/frontend-Vercel-black)
+![Deployed with Docker Hub](https://img.shields.io/badge/deploy-Docker--Hub-blue)  
 
 ---
 
